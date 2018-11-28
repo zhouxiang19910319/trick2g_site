@@ -1,6 +1,6 @@
 # Trick2g's entertainment center(twitch + youtube)
 
-![trkChamp](https://res.cloudinary.com/zzrot/image/upload/v1543380836/trick2g_site/favicon.png)
+![trkChamp](https://res.cloudinary.com/zzrot/image/upload/v1543383281/trick2g_site/trkChamp_big.png)
 
 ## This site embeded trick's youtube page as well as twitch.tv's page. You can view videos as well as watch his live stream here.
 
