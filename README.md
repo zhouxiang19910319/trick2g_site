@@ -1,6 +1,8 @@
 # Trick2g's entertainment center(twitch + youtube)
 
-## This site embeded trick's youtube page as well as twitch.tv's page. You can view videos as well as watch his live stream here at this page.
+![trkChamp](https://res.cloudinary.com/zzrot/image/upload/v1543380836/trick2g_site/favicon.png)
+
+## This site embeded trick's youtube page as well as twitch.tv's page. You can view videos as well as watch his live stream here.
 
 ## User Stories
 1. User is able to view trick's live stream at twitch.tv, and use full screen mode on it, at the same time see twitch chat at the right hand side.
@@ -12,5 +14,6 @@ References:
 
 
 Todo list: 
+* Navbar + footer ✅
 * Add favicon to this site ✅
 * Add loading image when site loads??
