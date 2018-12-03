@@ -1,10 +1,15 @@
-# Trick2g's entertainment center(twitch + youtube)
+# Trick2g's entertainment center(twitch + youtube) V1.0
 
 ![trkChamp](https://res.cloudinary.com/zzrot/image/upload/v1543383281/trick2g_site/trkChamp_big.png)
 
-## This site embeded trick2g's youtube page as well as twitch.tv's page. You can view videos as well as watch his live stream here.
+## Version 1 Screenshot
+![version_1](https://res.cloudinary.com/zzrot/image/upload/v1543809147/trick2g_site/v1_screenshot.jpg)
 
-## Version 1: follow tutorials and try to make the site work.
+## Aim
+Just to make everything works.Viewers can use this site to see trick's youtube playlist as well as twitch.tv stream.
+
+## Version 1.0
+Follow tutorials and try to make the site work. (new version will be coming after I've made this one work)
 
 ## User Stories
 1. User is able to view trick's live stream at twitch.tv, and use full screen mode on it, at the same time see twitch chat at the right hand side.
@@ -33,3 +38,8 @@ References:
 * Playlist ID `PLvYbWbiZnQ0cl_ZrEEtmwll3wBKkOeS-T`
 
 * 
+
+##Known Issue
+
+1. ~~Footer cannot be displayed because youtube section was set to `display:absolute` workaround => **disable footer**~~
+2. Youtube Section cannot be displayed fully because of `display:absolute` workaround => **used css grid instead**

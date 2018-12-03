@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    var key = "AIzaSyA-Bw0PIAr-n5qi19qorlkDydwoTus_kUc";
+    var key = ""; //enter your own API key here
     var playlistId = "PLvYbWbiZnQ0cl_ZrEEtmwll3wBKkOeS-T";
     var URL = "https://www.googleapis.com/youtube/v3/playlistItems";
 
@@ -57,4 +57,15 @@ $(document).ready(function () {
         var id = $(this).attr("data-key");
         mainVid(id);
     });
+});
+
+
+/*twitch.tv embed functions*/
+new Twitch.Embed("twitch-embed", {
+    width: 1800,
+    height: 800,
+    channel: "trick2g",
+    layout: "video-with-chat",
+    autoplay: false,
+    theme: "dark"
 });
